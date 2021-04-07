@@ -31,7 +31,7 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 # Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/file baru.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/file%20baru.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5.JPG)
 
