@@ -35,5 +35,49 @@ Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5.JPG)
 
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5.5.JPG)
+
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5,5.JPG)
 
+# Mengatur Margin dan Padding
+Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
+cellspacing pada tag table.
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/padding.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5,5.JPG)
+
+# Menggabungkan Sel Data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara
+horizontal).
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/6.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/6,6.JPG)
+
+# Membuat Form
+Buat file baru dengan nama lab3_form.html seperti berikut.
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/filebaru2.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/7.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/7,7.JPG)
+
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/8.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/8,8.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/9.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/9,9.JPG)
+
+# Menabahkan Style pada Form
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/10.JPG)
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/10,10.JPG)
