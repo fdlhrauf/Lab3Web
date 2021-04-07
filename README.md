@@ -35,7 +35,7 @@ Buat file baru dengan nama lab3_tabel.html seperti berikut.
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5.5.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/55.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/5,5.JPG)
 
