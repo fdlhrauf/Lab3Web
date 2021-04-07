@@ -61,6 +61,8 @@ Buat file baru dengan nama lab3_form.html seperti berikut.
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/filebaru2.JPG)
 
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/7.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/7,7.JPG)
