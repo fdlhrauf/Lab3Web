@@ -83,3 +83,8 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/10.JPG)
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images/10,10.JPG)
+
+# 1. Membuat Dropdown Menu dan List Box
+# Dropdown Menu
+
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/images soal/soal 1.JPG)
