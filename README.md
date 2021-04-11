@@ -91,12 +91,16 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 
 ![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soal%202.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soa3%203.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soal3%203.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soa4%204.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soal4%204.JPG)
 
 # List Box
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soa5%205.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soal5%205.JPG)
 
-![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soa6%206.JPG)
+![imag](https://github.com/fdlhrauf/Lab3Web/blob/main/soal6%206.JPG)
+
+# Nama : Siti Fadillah Rauf
+# Kelas : TI.19.A1
+# NIM : 311910206
